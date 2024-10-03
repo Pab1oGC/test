@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VisualStudio\\gitPrueba\\gitPrueba\\gitPrueba.csproj": {}
+    "C:\\prGit\\test\\gitPrueba\\gitPrueba.csproj": {}
   },
   "projects": {
-    "D:\\VisualStudio\\gitPrueba\\gitPrueba\\gitPrueba.csproj": {
+    "C:\\prGit\\test\\gitPrueba\\gitPrueba.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VisualStudio\\gitPrueba\\gitPrueba\\gitPrueba.csproj",
+        "projectUniqueName": "C:\\prGit\\test\\gitPrueba\\gitPrueba.csproj",
         "projectName": "gitPrueba",
-        "projectPath": "D:\\VisualStudio\\gitPrueba\\gitPrueba\\gitPrueba.csproj",
+        "projectPath": "C:\\prGit\\test\\gitPrueba\\gitPrueba.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "D:\\VisualStudio\\gitPrueba\\gitPrueba\\obj\\",
+        "outputPath": "C:\\prGit\\test\\gitPrueba\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",

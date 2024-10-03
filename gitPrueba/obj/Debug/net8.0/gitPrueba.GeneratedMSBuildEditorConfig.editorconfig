@@ -9,39 +9,39 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = gitPrueba
 build_property.RootNamespace = gitPrueba
-build_property.ProjectDir = D:\VisualStudio\gitPrueba\gitPrueba\
+build_property.ProjectDir = C:\prGit\test\gitPrueba\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\VisualStudio\gitPrueba\gitPrueba
+build_property.MSBuildProjectDirectory = C:\prGit\test\gitPrueba
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/VisualStudio/gitPrueba/gitPrueba/Pages/Error.cshtml]
+[C:/prGit/test/gitPrueba/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VisualStudio/gitPrueba/gitPrueba/Pages/Index.cshtml]
+[C:/prGit/test/gitPrueba/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VisualStudio/gitPrueba/gitPrueba/Pages/Privacy.cshtml]
+[C:/prGit/test/gitPrueba/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VisualStudio/gitPrueba/gitPrueba/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/prGit/test/gitPrueba/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VisualStudio/gitPrueba/gitPrueba/Pages/_ViewImports.cshtml]
+[C:/prGit/test/gitPrueba/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VisualStudio/gitPrueba/gitPrueba/Pages/_ViewStart.cshtml]
+[C:/prGit/test/gitPrueba/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/VisualStudio/gitPrueba/gitPrueba/Pages/Shared/_Layout.cshtml]
+[C:/prGit/test/gitPrueba/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-d5xxlrsl6r

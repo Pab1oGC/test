@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\VisualStudio\\gitPrueba\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\prGit\\test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC120EE2-AA61-47D7-85A5-ECF0C94C3189}|gitPrueba\\gitPrueba.csproj|c:\\prgit\\test\\gitprueba\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC120EE2-AA61-47D7-85A5-ECF0C94C3189}|gitPrueba\\gitPrueba.csproj|solutionrelative:gitprueba\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,15 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\prGit\\test\\gitPrueba\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "gitPrueba\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\prGit\\test\\gitPrueba\\Pages\\Index.cshtml",
+              "RelativeToolTip": "gitPrueba\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T04:27:49.989Z",
+              "EditorCaption": ""
             }
           ]
         }
