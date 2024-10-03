@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\prGit\\test\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BC120EE2-AA61-47D7-85A5-ECF0C94C3189}|gitPrueba\\gitPrueba.csproj|c:\\prgit\\test\\gitprueba\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC120EE2-AA61-47D7-85A5-ECF0C94C3189}|gitPrueba\\gitPrueba.csproj|solutionrelative:gitprueba\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BC120EE2-AA61-47D7-85A5-ECF0C94C3189}|gitPrueba\\gitPrueba.csproj|c:\\prgit\\test\\gitprueba\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BC120EE2-AA61-47D7-85A5-ECF0C94C3189}|gitPrueba\\gitPrueba.csproj|solutionrelative:gitprueba\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC120EE2-AA61-47D7-85A5-ECF0C94C3189}|gitPrueba\\gitPrueba.csproj|c:\\prgit\\test\\gitprueba\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC120EE2-AA61-47D7-85A5-ECF0C94C3189}|gitPrueba\\gitPrueba.csproj|solutionrelative:gitprueba\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,6 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\prGit\\test\\gitPrueba\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "gitPrueba\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\prGit\\test\\gitPrueba\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "gitPrueba\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T04:51:37.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\prGit\\test\\gitPrueba\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "gitPrueba\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\prGit\\test\\gitPrueba\\Pages\\Error.cshtml",
+              "RelativeToolTip": "gitPrueba\\Pages\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T04:51:58.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\prGit\\test\\gitPrueba\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "gitPrueba\\Pages\\Index.cshtml",

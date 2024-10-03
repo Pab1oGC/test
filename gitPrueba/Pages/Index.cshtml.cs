@@ -14,7 +14,7 @@ namespace gitPrueba.Pages
 
         public void OnGet()
         {
-
+            ViewData["Hola"] = "Hola desde la PC";
         }
     }
 }
